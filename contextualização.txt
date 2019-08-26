@@ -1,0 +1,20 @@
+Ricardo Garcia 
+Marcus Tomaz, 
+Rubens Nascimento
+Hericlis Ventura  
+Ana Carolina.
+
+Projeto – Vai descer
+
+
+    Esse projeto tem por objetivo controlar a entrada e saída de cada usuário da linha de uma ou mais rotas de ônibus, cada dado obtido é registrado através de um arduino infravermelho, que automaticamente envia o dado obtido a um banco de dados, e upado em forma de informações para um site da web, gerando gráficos para serem analisados. A tecnologia será usada para captar cada pessoa ou objeto que passe pelo sensor instalado na porta do ônibus, a ideia tem por objetivo influenciar o controle de fluxo e ajudar cada usuário a ter mais suporte sobre coisas que acontecem no transporte público, podendo dar opiniões, classificar cada rota ou motorista cadastrado naquela linha, sempre sedo mais seguro para ambos. 
+•	Aumentar com o passar dos anos – mercando crescendo – taxa de natalidade 
+•	A tecnologia envolvida é um arduíno , que através das informações obtidas, eu consigo calcular e
+•	quantidade de pessoas que entram e saem de determinada rota e por qual porta, com isso eu controlo a fiscalização,
+•	e através dessa fiscalização eu 
+•	consigo cadastrar o motorista, o ônibus e a rota, consigo também calcular o horário que esse motorista estará naquele lugar com determinado 
+•	número de passageiros reais,  informando ao usuário se ele vai estar cheio ou vazio, esses dados iram permitir que cada usuário avalie e comente 
+•	sobre cada rota ou motorista, e deixe que eles interajam, dando assim mais controle sobre cada pessoa que vive em determinado local, a ideia
+•	tem também por objetivo atingir e  interagir cada usuário com mais segurança, dando a ele suporte para comentar, sobre determinado caso isolado 
+•	que ocorreu naquele determinado dia. Assim que essa informação é gerada, o usuário tem um determinado prazo para ser respondido com a solução do
+•	problema ou com a justificativa.
